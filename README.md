@@ -308,6 +308,12 @@ These values may need adjustment depending on your server speed.
 
 ---
 
+# Pinning the AHK script to taskbar/Start Menu
+
+For easier access, Right Click the AHK script and select "Compile Script(GUI)", this will create a exe of the script.
+
+---
+
 # Upload Workflow
 
 ```text
